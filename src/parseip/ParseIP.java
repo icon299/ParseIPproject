@@ -4,15 +4,7 @@
  */
 package parseip;
 
-<<<<<<< HEAD
 
-=======
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
->>>>>>> 28c0b6c5fa914d26f5db90f12a5081806584ad01
 
 import java.util.ArrayList;
 import java.util.HashMap;
